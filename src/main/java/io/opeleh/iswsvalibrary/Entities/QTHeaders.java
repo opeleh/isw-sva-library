@@ -1,0 +1,4 @@
+package io.opeleh.iswsvalibrary.Entities;
+
+public class QTHeaders {
+}
